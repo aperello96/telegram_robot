@@ -6,8 +6,8 @@ load_dotenv() #Load .env variables
 
 def send_to_telegram(message):
 
-    apiToken = os.getenv("API_TOKEN")
-    chatID = os.getenv("CHAT_ID")
+    apiToken = os.getenv("API_TOKEN") #Get token api from .env file
+    chatID = os.getenv("CHAT_ID") #Get chat id from .env file
     apiURL = f'https://api.telegram.org/bot{apiToken}/sendMessage'
 
     try:
