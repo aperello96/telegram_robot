@@ -104,5 +104,5 @@ pip install requests
 ### Ejecuta test_robot.py para recibir un mensaje
 Ejecuta el test_robot.py para recibir en tu chat de telegram "Hola desde python"
 
-### Para mas información aqui se encuentra la url de como empezar y la lista de los métodos disponibles en la api
+### Para mas información aqui se encuentra la url de como empezar y la lista de los métodos disponibles en la api:
 [api telegram](https://core.telegram.org/bots/api#available-methods)
