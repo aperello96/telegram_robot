@@ -101,8 +101,8 @@ pip install python-dotenv
 pip install requests
 ```
 
-### Ejecuta test_robot.py para recibir un mensaje
-Ejecuta el test_robot.py para recibir en tu chat de telegram "Hola desde python"
+### Ejecuta test_robot.py para recibir un mensaje:
+Ejecuta el test_robot.py para recibir en tu chat de telegram "Hola desde python" y una imagen de test
 
 ### Para mas información aqui se encuentra la url de como empezar y la lista de los métodos disponibles en la api:
-[api telegram](https://core.telegram.org/bots/api#available-methods)
+[Api telegram](https://core.telegram.org/bots/api#available-methods)
