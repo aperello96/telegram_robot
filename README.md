@@ -1,5 +1,5 @@
-# telegram_robot
-## This project includes some of the basic functions to implement an automated messaging service with Telegram.
+# telegram_bot
+## Basic functions to implement an automated messaging service with Telegram.
 
 ### Preliminary Steps before using the code:
 
